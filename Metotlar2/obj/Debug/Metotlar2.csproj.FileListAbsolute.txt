@@ -1,0 +1,7 @@
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\Metotlar2\bin\Debug\Metotlar2.exe.config
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\Metotlar2\bin\Debug\Metotlar2.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\Metotlar2\bin\Debug\Metotlar2.pdb
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\Metotlar2\obj\Debug\Metotlar2.csproj.AssemblyReference.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\Metotlar2\obj\Debug\Metotlar2.csproj.CoreCompileInputs.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\Metotlar2\obj\Debug\Metotlar2.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\Metotlar2\obj\Debug\Metotlar2.pdb
